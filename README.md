@@ -1,6 +1,6 @@
 # **LuminarAl Full Versions**
 -------------
-![alt-текст](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.naturettl.com%2Fluminar-ai-review%2F&psig=AOvVaw1xX_uK5pgBSqrGdX2SdRYV&ust=1613040167155000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCTzY6R3-4CFQAAAAAdAAAAABAV "Luminar4")
+![alt-текст](https://cdn.naturettl.com/wp-content/uploads/2020/09/02141748/luminar-ai-review-900x476.jpg "LuminarAl")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
