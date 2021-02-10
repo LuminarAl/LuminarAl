@@ -10,7 +10,7 @@
 * RAM - Memory 8 GB RAM or more (16+ GB RAM is recommended)
 * Disk space - Hard disk 10 GB free space; SSD for best performance
 
-![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Luminar4")
+![alt-текст](https://media.macphun.com/uploads/uploads/L3M-1162-eyeem.gif "LuminarAl")
 
 ## The first image editor fully powered by artificial intelligence.
 
