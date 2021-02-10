@@ -1,6 +1,6 @@
 # **LuminarAl Full Versions**
 -------------
-![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
+![alt-текст](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.naturettl.com%2Fluminar-ai-review%2F&psig=AOvVaw1xX_uK5pgBSqrGdX2SdRYV&ust=1613040167155000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCTzY6R3-4CFQAAAAAdAAAAABAV "Luminar4")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
