@@ -10,7 +10,7 @@
 * RAM - Memory 8 GB RAM or more (16+ GB RAM is recommended)
 * Disk space - Hard disk 10 GB free space; SSD for best performance
 
-![alt-текст](https://media.macphun.com/uploads/uploads/L3M-1162-eyeem.gif "LuminarAl")
+![alt-текст](https://tweakers.net/i/wD7xL6Rw53ONyi4cxsUAXI_CWU8=/i/2004068830.gif "LuminarAl")
 
 ## The first image editor fully powered by artificial intelligence.
 
@@ -18,7 +18,7 @@
 * AI deals with the boring tasks so you can focus on your creative story.
 * Whether you’ve been a photographer for 20 years or 20 seconds, you’ll get awesome results right from the start.
 
-## [⚡LuminarAl Version 1.0.2](https://numl.org/FxU):
+## [⚡LuminarAl Version 1.0.2]():
 
 * Completely updated interface.
 * NEW AI Augmented Sky Tool.
